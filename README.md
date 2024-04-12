@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on u know what...👉🏻👈🏻👉🏻👈🏻
 - 📫 Reach me through discord Shravan_2973
 - ⚡ Fun fact: I love kids in the basement.
--    i'm into cyberSec, part of the CTF team BIOS. 
+-    i'm into cyberSec, part of the CTF team Bi0s
 
 <!---
 Shravan2073/Shravan2073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
