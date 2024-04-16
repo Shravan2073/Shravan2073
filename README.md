@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shravan
-- 👀 I’m interested in yo mom.
+- 👀 I’m interested Web Dev, Cyber securiy and DSA.
 - 🌱 I’m currently learning C# ,JAVA ,CSS ,GO! and Rust.
-- 💞️ I’m looking to collaborate on u know what...👉🏻👈🏻👉🏻👈🏻
+- 💞️ I’m looking to collaborate on any project, just hit me up.
 - 📫 Reach me through discord Shravan_2973
 - ⚡ Fun fact: I love kids in the basement.
 -    i'm into cyberSec, part of the CTF team Bi0s
