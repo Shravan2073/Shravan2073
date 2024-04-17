@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I love kids in the basement.
 -    i'm into cyberSec, part of the CTF team Bi0s
 
+  ![](https://komarev.com/ghpvc/?username=Shravan2073&color=blue)
+
 <!---
 Shravan2073/Shravan2073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
