@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C# ,JAVA ,CSS ,GO! and Rust.
 - 💞️ I’m looking to collaborate on any project, just hit me up.
 - 📫 Reach me through discord Shravan_2973
-- ⚡ Fun fact: I love kids in the basement.
--    i'm into cyberSec, part of the CTF team Bi0s
+-  i'm into cyberSec, part of the CTF team Bi0s
 
   ![](https://komarev.com/ghpvc/?username=Shravan2073&color=blue)
 
