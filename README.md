@@ -1,6 +1,6 @@
 
-hey, im Shravan.<br> I like making random stuff.
-Fell free to check my work out and recomend improvements. <br>
+Hey, I'm Shravan.<br> I like making random stuff.
+Feel free to check my work out and recommend improvements. <br>
 Discord ID-whiskey-tango-foxtrot
 
 # 💻 My Tech Stack 
