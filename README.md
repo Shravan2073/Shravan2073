@@ -1,4 +1,6 @@
 
+import 'package:animated_text_kit/animated_text_kit.dart';
+
 Hey, I'm Shravan.<br> I like making random stuff.
 Feel free to check my work out and recommend improvements. <br>
 Discord ID-whiskey-tango-foxtrot
@@ -9,34 +11,28 @@ Discord ID-whiskey-tango-foxtrot
   ![](https://komarev.com/ghpvc/?username=Shravan2073&color=blue)
 
 
+# Table of contents
 
-Row(
-  mainAxisSize: MainAxisSize.min,
-  children: <Widget>[
-    const SizedBox(width: 20.0, height: 100.0),
-    const Text(
-      'Be',
-      style: TextStyle(fontSize: 43.0),
-    ),
-    const SizedBox(width: 20.0, height: 100.0),
-    DefaultTextStyle(
-      style: const TextStyle(
-        fontSize: 40.0,
-        fontFamily: 'Horizon',
-      ),
-      child: AnimatedTextKit(
-        animatedTexts: [
-          RotateAnimatedText('AWESOME'),
-          RotateAnimatedText('OPTIMISTIC'),
-          RotateAnimatedText('DIFFERENT'),
-        ],
-        onTap: () {
-          print("Tap Event");
-        },
-      ),
-    ),
-  ],
-);
+- [Flutter Package of the Week](#flutter-package-of-the-week)
+- [Installing](#installing)
+- [Usage](#usage)
+  - [New with Version 3](#new-with-version-3)
+- [Animations](#animations)
+  - [Rotate](#rotate)
+  - [Fade](#fade)
+  - [Typer](#typer)
+  - [Typewriter](#typewriter)
+  - [Scale](#scale)
+  - [Colorize](#colorize)
+  - [TextLiquidFill](#textliquidfill)
+  - [Wavy](#wavy)
+  - [Flicker](#flicker)
+  - [Create your own Animations](#create-your-own-animations)
+- [Bugs or Requests](#bugs-or-requests)
+- [Contributors](#contributors)
+
+
+
 <!---
 Shravan2073/Shravan2073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
