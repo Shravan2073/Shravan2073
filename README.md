@@ -4,7 +4,7 @@
 
 I like making random stuff.
 Feel free to check my work out or recommend any suggestions. Thanks in advance 🙂 <br>
-Get in touch through Discord, my ID: 0xOSHKOSH
+Get in touch through Discord, my ID: 0x00SHKOSH
 
 check out my website [here](https://shravan.lol)
 
