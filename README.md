@@ -1,12 +1,10 @@
 
 
-# <h2 align="center">
+# <h2 align="center">Hey, I'm Shravan 👋</h2><br>
 
-Hey, I'm Shravan 👋</h2><br>
-
-I like making random stuff.
+I like making random stuff. 
 i love metalica 
-Check my work out and do Feel free to give suggestions. Have a great day!  <br>
+Check my work out and do feel free to give suggestions. Have a great day! 🙂<br>
 Get in touch through Discord, my ID: 0x0OSHKOSH
 
 check out my website [here](https://shravan.lol)
