@@ -4,7 +4,7 @@
 
 I like making random stuff. 
 
-Check my work out and do feel free to give suggestions. Have a great day! 🙂<br>
+Check my work out and do feel free to give suggestions.<br>
 Get in touch through Discord, my ID: 0x0OSHKOSH
 
 check out my website [here](https://shravan.lol)
