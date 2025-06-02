@@ -2,7 +2,7 @@
 
 # <h2 align="center">Hey, I'm Shravan 👋</h2><br>
 
-I'm Shravan, a student at Amrita Vishvavidyapeetham, Bangalore. I am currently pursuing my undergrad,  B. Tech in CS and Engineering.
+I'm Shravan, a student at Amrita Vishvavidyapeetham, Bangalore. I am currently pursuing my undergrad (B. Tech) in CS and Engineering.
 
 I like making random stuff. 
 
