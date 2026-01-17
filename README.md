@@ -7,7 +7,7 @@ I'm Shravan, a student at Amrita Vishvavidyapeetham, Bangalore. I am currently p
 I'm into cybersecurity/AI and I like making random stuff. 
 
 Check my work out and do feel free to give suggestions.<br>
-Get in touch through Discord, my ID: 0x0OSHKOSH
+Get in touch through Discord, my ID: ex0vo1d
 
 check out my website [here](https://shravan.lol)
 
