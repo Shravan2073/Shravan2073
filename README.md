@@ -18,7 +18,7 @@ I enjoy working at the intersection of **cybersecurity**, **AI/ML**, and **syste
 - Machine Learning & applied AI  
 - Backend systems & tooling  
 - Hackathons, side projects, and problem-solving  
-
+- Try my best to ocontribute to open source projects. 
 ---
 
 ### 🤝 Let’s connect
