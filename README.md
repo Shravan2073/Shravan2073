@@ -25,7 +25,7 @@ I enjoy working at the intersection of **cybersecurity**, **AI/ML**, and **syste
 - 🌐 Website: [https://shravan.lol](https://shravan.lol)
 - 💬 Discord: **ex0vo1d**
 
-Feel free to explore my repositories and share feedback or suggestions  always open to learning.
+Feel free to explore my repositories and share feedback or suggestions. I'm Always open to learning 🤔
 
 ---
 
