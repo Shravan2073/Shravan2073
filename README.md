@@ -1,17 +1,33 @@
 
+<h2 align="center">Hey, I'm Shravan 👋</h2>
 
-# <h2 align="center">Hey, I'm Shravan 👋</h2><br>
+<p align="center">
+CS Undergrad • Cybersecurity • AI/ML • Builder
+</p>
 
-I'm a student at Amrita Vishvavidyapeetham, Bangalore. I am currently pursuing my undergrad (B. Tech) in CS and Engineering.
+---
 
-I'm into cybersecurity/AI,ML 
-and I like making random stuff. 
+I'm a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham, Bangalore**, currently pursuing my **B.Tech in Computer Science & Engineering**.
 
-Check my work out and do feel free to give suggestions.<br>
-Get in touch through Discord, my ID: ex0vo1d
+I enjoy working at the intersection of **cybersecurity**, **AI/ML**, and **systems**, and I like building things sometimes experimental, sometimes practical, but usually hands-on.
 
-check out my website [here](https://shravan.lol)
+---
 
+### 🔍 What I'm interested in
+- Cybersecurity & system security  
+- Machine Learning & applied AI  
+- Backend systems & tooling  
+- Hackathons, side projects, and problem-solving  
+
+---
+
+### 🤝 Let’s connect
+- 🌐 Website: [https://shravan.lol](https://shravan.lol)
+- 💬 Discord: **ex0vo1d**
+
+Feel free to explore my repositories and share feedback or suggestions  always open to learning.
+
+---
 
   ![](https://komarev.com/ghpvc/?username=Shravan2073&color=blue)
 
