@@ -2,7 +2,7 @@
 <h2 align="center">Hey, I'm Shravan 👋</h2>
 
 <p align="center">
-CS Undergrad • Cybersecurity • AI/ML • Builder
+CS Undergrad • Cybersecurity • AI/ML • 
 </p>
 
 ---
