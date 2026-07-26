@@ -7,25 +7,15 @@ CS Undergrad • Cybersecurity • AI/ML
 
 ---
 
-I'm a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham, Bangalore**, currently pursuing my **B.Tech in Computer Science & Engineering**.
+I'm a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham, Bangalore**, currently pursuing my **B.Tech in Computer Science & Engineering**. I love wokring on passion projects because they are the genesis of genuine ideas. 
 
-I enjoy working at the intersection of **cybersecurity**, **AI/ML**, and **systems**, and I like building things sometimes experimental, sometimes practical, but usually hands-on.
+I enjoy working at the intersection of **cybersecurity**, **AI/ML**.
 
----
-
-### 🔍 What I'm interested in
-- Cybersecurity & system security  
-- Machine Learning & applied AI  
-- Backend systems & tooling  
-- Hackathons, side projects, and problem-solving  
-- Try my best to ocontribute to open source projects. 
----
-
-### 🤝 Let’s connect
+### Let’s connect
 - 🌐 Website: [https://shravan.lol](https://shravan.lol)
 - 💬 Discord: **ex0vo1d**
 
-Feel free to explore my repositories and share feedback or suggestions. I'm Always open to learning 🤔
+Feel free to explore my repositories and share feedback or suggestions. I'm Always open to learning 
 
 ---
 
